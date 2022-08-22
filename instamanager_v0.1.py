@@ -4,8 +4,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.keys import Keys
 
 # Github credentials
-username = "kop_robo"
-password = "InstaTest2!"
+username = "username"
+password = "password"
 path_to_photos = "path"
 
 def drag_and_drop_file(drop_target, path):
